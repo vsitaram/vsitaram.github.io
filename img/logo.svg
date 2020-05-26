@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,23 +54,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-287)">
-    <ellipse
+    <circle
        id="path3713"
-       cx="4.9999995"
+       cx="5"
        cy="292"
-       style="fill:none;stroke:#ffffff;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       rx="4.7582645"
-       ry="4.7582641" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35473469;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="4.8226328" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.06777811px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.12669446;stroke-opacity:0;"
-       x="2.3955278"
+       x="2.4931791"
        y="252.41551"
        id="text4522"
        transform="scale(0.85785784,1.1656943)"><tspan
          sodipodi:role="line"
          id="tspan4520"
-         x="2.3955278"
+         x="2.4931791"
          y="252.41551"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.12669446;stroke-opacity:0;">RV</tspan></text>
   </g>
